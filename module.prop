@@ -1,0 +1,9 @@
+id=HMK30SUltra_MI10T-fix-low-mic-sensitivity
+name=HMK30SUltra_MI10T-fix-low-mic-sensitivity
+version=v1
+versionCode=1
+author=yoransys
+description=This edit mixer_paths_* files on Xiaomi HMK30SUltra_MI10T-fix-low-mic-sensitivity with Android 12;
+Changes the values of all handset-dmic-endfire volume from 6 to 12;
+Changes the values of all speaker-mic volume from 6 to 12;
+Changes the values of all speaker-dmic-endfire volume from 6 to 12;
